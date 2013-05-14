@@ -12,29 +12,29 @@ void setup()
 void loop()
 {
   setColor(255, 0, 0);  // red
-  delay(2000);
+  delay(1000);
   setColor(0, 255, 0);  // green
-  delay(2000);
+  delay(1000);
   setColor(0, 0, 255);  // blue
-  delay(2000);
+  delay(1000);
   setColor(255, 255, 0);  // yellow
-  delay(2000);  
+  delay(1000);  
   setColor(80, 0, 80);  // purple
-  delay(2000);
+  delay(1000);
   setColor(0, 255, 255);  // aqua
-  delay(2000);
+  delay(1000);
   setColor(6, 25, 88); // White
-  delay(2000);
+  delay(1000);
   setColor(255, 165, 0); //Orange
-  delay(2000);
+  delay(1000);
   setColor(186, 85, 211);
-  delay(2000);
+  delay(1000);
   setColor(159,182, 205); // slategray 3
-  delay(4000);
+  delay(1000);
   setColor(0, 134, 139); // turquoise 4
-  delay(4000);
+  delay(1000);
   setColor(0, 201, 87); // emeraldgreen
-  delay(4000);
+  delay(1000);
   setColor(255, 255, 255); //off
   delay(2000);
 }
